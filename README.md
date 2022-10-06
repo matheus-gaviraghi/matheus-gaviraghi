@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-gaviraghi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  
   
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gaviraghi](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gaviraghi(https://github.com/anuraghazra/github-readme-stats)"/>
   
 </div>
 <div style="display: inline_block"><br>
