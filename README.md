@@ -3,9 +3,9 @@
  <div>
   <a href="https://github.com/matheus-gaviraghi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-gaviraghi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gaviraghi&layout=compact&langs_count=6&theme=tokyonight"/>
+ 
   
-   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gaviraghi
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gaviraghi"/>
   
 </div>
 <div style="display: inline_block"><br>
